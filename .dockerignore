@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+
+.git
+.github
+
+
+*.log
+logs/
+
+.env
+.env.*
+
+
+.vscode/
+.idea/
+
+dist/
+
+.DS_Store
+Thumbs.db
+
+README.md
+
+coverage/
